@@ -1,0 +1,7 @@
+C:\Users\somendrashekhar\Desktop\assignments\duck\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\somendrashekhar\Desktop\assignments\duck\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\somendrashekhar\Desktop\assignments\duck\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\somendrashekhar\Desktop\assignments\duck\ConsoleApp4\obj\Debug\duck.csprojAssemblyReference.cache
+C:\Users\somendrashekhar\Desktop\assignments\duck\ConsoleApp4\obj\Debug\duck.csproj.CoreCompileInputs.cache
+C:\Users\somendrashekhar\Desktop\assignments\duck\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\somendrashekhar\Desktop\assignments\duck\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

@@ -1,0 +1,7 @@
+D:\assignments\Day 4\excdptionHandling\excdptionHandling\bin\Debug\excdptionHandling.exe.config
+D:\assignments\Day 4\excdptionHandling\excdptionHandling\bin\Debug\excdptionHandling.exe
+D:\assignments\Day 4\excdptionHandling\excdptionHandling\bin\Debug\excdptionHandling.pdb
+D:\assignments\Day 4\excdptionHandling\excdptionHandling\obj\Debug\excdptionHandling.csprojAssemblyReference.cache
+D:\assignments\Day 4\excdptionHandling\excdptionHandling\obj\Debug\excdptionHandling.csproj.CoreCompileInputs.cache
+D:\assignments\Day 4\excdptionHandling\excdptionHandling\obj\Debug\excdptionHandling.exe
+D:\assignments\Day 4\excdptionHandling\excdptionHandling\obj\Debug\excdptionHandling.pdb

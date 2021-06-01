@@ -1,0 +1,18 @@
+D:\assignments\ConsoleApp3.1\ConsoleApp3.1\bin\Debug\ConsoleApp3.1.exe.config
+D:\assignments\ConsoleApp3.1\ConsoleApp3.1\bin\Debug\ConsoleApp3.1.exe
+D:\assignments\ConsoleApp3.1\ConsoleApp3.1\bin\Debug\ConsoleApp3.1.pdb
+D:\assignments\ConsoleApp3.1\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.csprojAssemblyReference.cache
+D:\assignments\ConsoleApp3.1\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.csproj.CoreCompileInputs.cache
+D:\assignments\ConsoleApp3.1\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.exe
+D:\assignments\ConsoleApp3.1\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.pdb
+D:\assignments\Day 3\ConsoleApp3.1\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.csprojAssemblyReference.cache
+D:\assignments\Day 3\ConsoleApp3.1\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.csproj.CoreCompileInputs.cache
+D:\assignments\Day 3\ConsoleApp3.1\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.exe
+D:\assignments\Day 3\ConsoleApp3.1\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.pdb
+D:\assignments\Day 3\Equipment_extended\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.csprojAssemblyReference.cache
+D:\assignments\Day 3\Equipment_extended\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.csproj.CoreCompileInputs.cache
+D:\assignments\Day 3\Equipment_extended\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.exe
+D:\assignments\Day 3\Equipment_extended\ConsoleApp3.1\obj\Debug\ConsoleApp3.1.pdb
+D:\assignments\Day 3\Equipment_extended\ConsoleApp3.1\bin\Debug\ConsoleApp3.1.exe.config
+D:\assignments\Day 3\Equipment_extended\ConsoleApp3.1\bin\Debug\ConsoleApp3.1.exe
+D:\assignments\Day 3\Equipment_extended\ConsoleApp3.1\bin\Debug\ConsoleApp3.1.pdb
