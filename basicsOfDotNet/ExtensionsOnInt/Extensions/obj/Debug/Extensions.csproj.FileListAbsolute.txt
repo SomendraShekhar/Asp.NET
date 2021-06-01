@@ -1,0 +1,7 @@
+D:\assignments\Extensions\Extensions\obj\Debug\Extensions.csprojAssemblyReference.cache
+D:\assignments\Extensions\Extensions\obj\Debug\Extensions.csproj.CoreCompileInputs.cache
+D:\assignments\Extensions\Extensions\bin\Debug\Extensions.exe.config
+D:\assignments\Extensions\Extensions\bin\Debug\Extensions.exe
+D:\assignments\Extensions\Extensions\bin\Debug\Extensions.pdb
+D:\assignments\Extensions\Extensions\obj\Debug\Extensions.exe
+D:\assignments\Extensions\Extensions\obj\Debug\Extensions.pdb

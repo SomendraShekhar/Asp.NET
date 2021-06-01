@@ -1,0 +1,7 @@
+D:\assignments\events.cs\events.cs\bin\Debug\events.cs.exe.config
+D:\assignments\events.cs\events.cs\bin\Debug\events.cs.exe
+D:\assignments\events.cs\events.cs\bin\Debug\events.cs.pdb
+D:\assignments\events.cs\events.cs\obj\Debug\events.cs.csprojAssemblyReference.cache
+D:\assignments\events.cs\events.cs\obj\Debug\events.cs.csproj.CoreCompileInputs.cache
+D:\assignments\events.cs\events.cs\obj\Debug\events.cs.exe
+D:\assignments\events.cs\events.cs\obj\Debug\events.cs.pdb

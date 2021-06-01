@@ -1,0 +1,7 @@
+D:\assignments\Day 1\DiffrenceBetweenAllEqualtypes\DiffrenceBetweenAllEqualtypes\bin\Debug\DiffrenceBetweenAllEqualtypes.exe.config
+D:\assignments\Day 1\DiffrenceBetweenAllEqualtypes\DiffrenceBetweenAllEqualtypes\bin\Debug\DiffrenceBetweenAllEqualtypes.exe
+D:\assignments\Day 1\DiffrenceBetweenAllEqualtypes\DiffrenceBetweenAllEqualtypes\bin\Debug\DiffrenceBetweenAllEqualtypes.pdb
+D:\assignments\Day 1\DiffrenceBetweenAllEqualtypes\DiffrenceBetweenAllEqualtypes\obj\Debug\DiffrenceBetweenAllEqualtypes.csprojAssemblyReference.cache
+D:\assignments\Day 1\DiffrenceBetweenAllEqualtypes\DiffrenceBetweenAllEqualtypes\obj\Debug\DiffrenceBetweenAllEqualtypes.csproj.CoreCompileInputs.cache
+D:\assignments\Day 1\DiffrenceBetweenAllEqualtypes\DiffrenceBetweenAllEqualtypes\obj\Debug\DiffrenceBetweenAllEqualtypes.exe
+D:\assignments\Day 1\DiffrenceBetweenAllEqualtypes\DiffrenceBetweenAllEqualtypes\obj\Debug\DiffrenceBetweenAllEqualtypes.pdb
