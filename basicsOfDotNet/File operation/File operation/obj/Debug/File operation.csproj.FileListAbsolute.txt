@@ -1,0 +1,7 @@
+D:\assignments\File operation\File operation\obj\Debug\File operation.csprojAssemblyReference.cache
+D:\assignments\File operation\File operation\obj\Debug\File operation.csproj.CoreCompileInputs.cache
+D:\assignments\File operation\File operation\bin\Debug\File operation.exe.config
+D:\assignments\File operation\File operation\bin\Debug\File operation.exe
+D:\assignments\File operation\File operation\bin\Debug\File operation.pdb
+D:\assignments\File operation\File operation\obj\Debug\File operation.exe
+D:\assignments\File operation\File operation\obj\Debug\File operation.pdb

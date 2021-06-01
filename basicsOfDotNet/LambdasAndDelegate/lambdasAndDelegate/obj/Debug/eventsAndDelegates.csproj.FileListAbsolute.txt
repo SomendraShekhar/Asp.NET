@@ -1,0 +1,14 @@
+D:\assignments\eventsAndDelegates\eventsAndDelegates\bin\Debug\eventsAndDelegates.exe.config
+D:\assignments\eventsAndDelegates\eventsAndDelegates\bin\Debug\eventsAndDelegates.exe
+D:\assignments\eventsAndDelegates\eventsAndDelegates\bin\Debug\eventsAndDelegates.pdb
+D:\assignments\eventsAndDelegates\eventsAndDelegates\obj\Debug\eventsAndDelegates.csprojAssemblyReference.cache
+D:\assignments\eventsAndDelegates\eventsAndDelegates\obj\Debug\eventsAndDelegates.csproj.CoreCompileInputs.cache
+D:\assignments\eventsAndDelegates\eventsAndDelegates\obj\Debug\eventsAndDelegates.exe
+D:\assignments\eventsAndDelegates\eventsAndDelegates\obj\Debug\eventsAndDelegates.pdb
+D:\assignments\Day 4\eventsAndDelegates\eventsAndDelegates\bin\Debug\eventsAndDelegates.exe.config
+D:\assignments\Day 4\eventsAndDelegates\eventsAndDelegates\bin\Debug\eventsAndDelegates.exe
+D:\assignments\Day 4\eventsAndDelegates\eventsAndDelegates\bin\Debug\eventsAndDelegates.pdb
+D:\assignments\Day 4\eventsAndDelegates\eventsAndDelegates\obj\Debug\eventsAndDelegates.csprojAssemblyReference.cache
+D:\assignments\Day 4\eventsAndDelegates\eventsAndDelegates\obj\Debug\eventsAndDelegates.csproj.CoreCompileInputs.cache
+D:\assignments\Day 4\eventsAndDelegates\eventsAndDelegates\obj\Debug\eventsAndDelegates.exe
+D:\assignments\Day 4\eventsAndDelegates\eventsAndDelegates\obj\Debug\eventsAndDelegates.pdb
